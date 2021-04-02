@@ -14,7 +14,7 @@ pip install PyQt5 PyQtCharts pycryptodome
 ## To Start
 ### Server
 `
-python ./pychat/cmat_server.py
+python ./pychat/chat_server.py
 `
 ### Client
 `
